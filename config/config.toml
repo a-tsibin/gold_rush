@@ -1,0 +1,8 @@
+explorers_counter = 5
+diggers_count = 5
+licensors_count = 5
+bookkeeper_count = 5
+licensor_rps_limit = 400
+explorer_rps_limit = 200
+digger_rps_limit = 300
+bookkeeper_rps_limit = 400
